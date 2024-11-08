@@ -10,4 +10,4 @@ Q3. **Calculating different pixel values between two images**
 
 Q4. **Overlaying one image onto another with adjustable transparency**
 
-All of the problems have been solved with 3 different methods of parallelism: SIMD, OpenMP, POSIX
+All problems have been solved using three different parallelism methods: SIMD, OpenMP, and POSIX.

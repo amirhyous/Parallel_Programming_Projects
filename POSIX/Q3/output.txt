@@ -1,0 +1,43 @@
+Serial exec. Time : 4310 us 
+Parallel exec. Time : 1366 us 
+-> speedup : 3.1552 
+ 
+Serial exec. Time : 4350 us 
+Parallel exec. Time : 1220 us 
+-> speedup : 3.5656 
+ 
+Serial exec. Time : 4457 us 
+Parallel exec. Time : 1254 us 
+-> speedup : 3.5542 
+ 
+Serial exec. Time : 4437 us 
+Parallel exec. Time : 1346 us 
+-> speedup : 3.2964 
+ 
+Serial exec. Time : 4660 us 
+Parallel exec. Time : 1249 us 
+-> speedup : 3.7310 
+ 
+Serial exec. Time : 4522 us 
+Parallel exec. Time : 1243 us 
+-> speedup : 3.6380 
+ 
+Serial exec. Time : 4402 us 
+Parallel exec. Time : 1220 us 
+-> speedup : 3.6082 
+ 
+Serial exec. Time : 4558 us 
+Parallel exec. Time : 1232 us 
+-> speedup : 3.6997 
+ 
+Serial exec. Time : 4444 us 
+Parallel exec. Time : 1225 us 
+-> speedup : 3.6278 
+ 
+Serial exec. Time : 4449 us 
+Parallel exec. Time : 1236 us 
+-> speedup : 3.5995 
+ 
+*********** 
+Average Speedup after 10 executions : 3.5476 
+***********

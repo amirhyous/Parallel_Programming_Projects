@@ -1,0 +1,1400 @@
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 3020 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 5139 us
+
+
+Speed up : 1.701656
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881680
+Execution Time : 2004 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3957 us
+
+
+Speed up : 1.974551
+
+*************
+* parallel execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 1823 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 4202 us
+
+
+Speed up : 2.304992
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 2058 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 4875 us
+
+
+Speed up : 2.368805
+
+*************
+* parallel execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881680
+Execution Time : 1802 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3951 us
+
+
+Speed up : 2.192564
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 1950 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3837 us
+
+
+Speed up : 1.967692
+
+*************
+* parallel execution : 
+Average Value : 50.034615
+Result Standard Deviation : 28.881681
+Execution Time : 1733 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3628 us
+
+
+Speed up : 2.093480
+
+*************
+* parallel execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 2051 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3648 us
+
+
+Speed up : 1.778645
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881680
+Execution Time : 1857 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3812 us
+
+
+Speed up : 2.052773
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 1916 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 4051 us
+
+
+Speed up : 2.114301
+
+*************
+* parallel execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 1792 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3827 us
+
+
+Speed up : 2.135603
+
+*************
+* parallel execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 1708 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3839 us
+
+
+Speed up : 2.247658
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 1900 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3927 us
+
+
+Speed up : 2.066842
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881680
+Execution Time : 1707 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3814 us
+
+
+Speed up : 2.234329
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 1683 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3663 us
+
+
+Speed up : 2.176471
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 1608 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3764 us
+
+
+Speed up : 2.340796
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 1761 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3761 us
+
+
+Speed up : 2.135718
+
+*************
+* parallel execution : 
+Average Value : 50.034611
+Result Standard Deviation : 28.881681
+Execution Time : 2110 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3632 us
+
+
+Speed up : 1.721327
+
+*************
+* parallel execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 2165 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 3617 us
+
+
+Speed up : 1.670670
+
+*************
+* parallel execution : 
+Average Value : 50.034615
+Result Standard Deviation : 28.881681
+Execution Time : 2341 us
+
+* serial execution : 
+Average Value : 50.034607
+Result Standard Deviation : 28.881681
+Execution Time : 4435 us
+
+
+Speed up : 1.894490
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846249
+Execution Time : 1796 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3722 us
+
+
+Speed up : 2.072383
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846249
+Execution Time : 1781 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4041 us
+
+
+Speed up : 2.268950
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846247
+Execution Time : 2209 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4378 us
+
+
+Speed up : 1.981892
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1760 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3883 us
+
+
+Speed up : 2.206250
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1697 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3914 us
+
+
+Speed up : 2.306423
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1727 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4000 us
+
+
+Speed up : 2.316155
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1906 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4204 us
+
+
+Speed up : 2.205666
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1641 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3694 us
+
+
+Speed up : 2.251066
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1800 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3685 us
+
+
+Speed up : 2.047222
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1568 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4081 us
+
+
+Speed up : 2.602679
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1746 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3795 us
+
+
+Speed up : 2.173539
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846247
+Execution Time : 1992 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3763 us
+
+
+Speed up : 1.889056
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846247
+Execution Time : 1932 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3985 us
+
+
+Speed up : 2.062629
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846249
+Execution Time : 1889 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3870 us
+
+
+Speed up : 2.048703
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846247
+Execution Time : 2035 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3849 us
+
+
+Speed up : 1.891400
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2143 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4249 us
+
+
+Speed up : 1.982734
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 2021 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4131 us
+
+
+Speed up : 2.044038
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2397 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 6433 us
+
+
+Speed up : 2.683771
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1775 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 6014 us
+
+
+Speed up : 3.388169
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1874 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 5014 us
+
+
+Speed up : 2.675560
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1780 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 5459 us
+
+
+Speed up : 3.066854
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1546 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4439 us
+
+
+Speed up : 2.871281
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1933 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4511 us
+
+
+Speed up : 2.333678
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1987 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4496 us
+
+
+Speed up : 2.262708
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1648 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4109 us
+
+
+Speed up : 2.493325
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1786 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3787 us
+
+
+Speed up : 2.120381
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846247
+Execution Time : 1849 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3932 us
+
+
+Speed up : 2.126555
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846249
+Execution Time : 1673 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3714 us
+
+
+Speed up : 2.219964
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1897 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3844 us
+
+
+Speed up : 2.026357
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1824 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3837 us
+
+
+Speed up : 2.103618
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846249
+Execution Time : 2252 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4203 us
+
+
+Speed up : 1.866341
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1582 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4393 us
+
+
+Speed up : 2.776865
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1557 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4393 us
+
+
+Speed up : 2.821451
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2058 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4287 us
+
+
+Speed up : 2.083090
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1985 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4303 us
+
+
+Speed up : 2.167758
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2373 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4876 us
+
+
+Speed up : 2.054783
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2313 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 5912 us
+
+
+Speed up : 2.555988
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1720 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 5428 us
+
+
+Speed up : 3.155814
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1659 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4486 us
+
+
+Speed up : 2.704039
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2172 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 6852 us
+
+
+Speed up : 3.154696
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2010 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 5220 us
+
+
+Speed up : 2.597015
+
+*************
+* parallel execution : 
+Average Value : 50.073448
+Result Standard Deviation : 28.846247
+Execution Time : 2471 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4543 us
+
+
+Speed up : 1.838527
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1698 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4156 us
+
+
+Speed up : 2.447585
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1673 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3910 us
+
+
+Speed up : 2.337119
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846245
+Execution Time : 1891 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4261 us
+
+
+Speed up : 2.253305
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 2201 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3663 us
+
+
+Speed up : 1.664244
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1936 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3674 us
+
+
+Speed up : 1.897727
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : -998248 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 3878 us
+
+
+Speed up : -0.003885
+
+*************
+* parallel execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 1985 us
+
+* serial execution : 
+Average Value : 50.073444
+Result Standard Deviation : 28.846247
+Execution Time : 4586 us
+
+
+Speed up : 2.310328
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 2092 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4592 us
+
+
+Speed up : 2.195029
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 2034 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4065 us
+
+
+Speed up : 1.998525
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 1745 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4462 us
+
+
+Speed up : 2.557020
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 1727 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4158 us
+
+
+Speed up : 2.407643
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 1891 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4071 us
+
+
+Speed up : 2.152829
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 1937 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4835 us
+
+
+Speed up : 2.496128
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1932 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 6040 us
+
+
+Speed up : 3.126294
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 2091 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 5150 us
+
+
+Speed up : 2.462936
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 2338 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4794 us
+
+
+Speed up : 2.050471
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 1744 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4063 us
+
+
+Speed up : 2.329702
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 1710 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3829 us
+
+
+Speed up : 2.239181
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 1945 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3741 us
+
+
+Speed up : 1.923393
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1960 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4161 us
+
+
+Speed up : 2.122959
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1748 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3760 us
+
+
+Speed up : 2.151030
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 1685 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3989 us
+
+
+Speed up : 2.367359
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 1618 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3761 us
+
+
+Speed up : 2.324475
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 1970 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3965 us
+
+
+Speed up : 2.012690
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865313
+Execution Time : 1682 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3864 us
+
+
+Speed up : 2.297265
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1769 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3754 us
+
+
+Speed up : 2.122103
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1837 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3751 us
+
+
+Speed up : 2.041916
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 1611 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3823 us
+
+
+Speed up : 2.373060
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 1996 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3798 us
+
+
+Speed up : 1.902806
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 2085 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3786 us
+
+
+Speed up : 1.815827
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 2066 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3839 us
+
+
+Speed up : 1.858180
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 2066 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3832 us
+
+
+Speed up : 1.854792
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 1745 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3677 us
+
+
+Speed up : 2.107163
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1825 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3737 us
+
+
+Speed up : 2.047671
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1990 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3886 us
+
+
+Speed up : 1.952764
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865313
+Execution Time : 1872 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4081 us
+
+
+Speed up : 2.180021
+
+*************
+* parallel execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 2128 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 3975 us
+
+
+Speed up : 1.867951
+
+*************
+* parallel execution : 
+Average Value : 50.008095
+Result Standard Deviation : 28.865314
+Execution Time : 2007 us
+
+* serial execution : 
+Average Value : 50.008099
+Result Standard Deviation : 28.865314
+Execution Time : 4611 us
+
+
+Speed up : 2.297459
+
+*************

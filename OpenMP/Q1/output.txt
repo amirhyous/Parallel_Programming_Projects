@@ -1,0 +1,10 @@
+
+Serial Run time = 1044.000 
+Parallel Run time = 400.000 
+Speedup = 2.610000
+
+serial min index: 443601.000
+serial min: 0.000088
+
+parallel min index: 443601.000
+parallel min: 0.000088

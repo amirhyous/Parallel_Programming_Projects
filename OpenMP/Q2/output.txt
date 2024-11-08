@@ -1,0 +1,12 @@
+* serial execution : 
+Average Value : 49.971
+Result Standard Deviation : 28.850
+Execution Time : 26873 us
+
+* parallel execution : 
+Average Value : 49.971
+Result Standard Deviation : 28.850
+Execution Time : 8499 us
+
+
+Speed up : 3.161901
